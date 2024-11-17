@@ -52,5 +52,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://car-management-application_1.vercel.app"
+  "proxy": "https://car-managment-application-server.vercel.app/"
 }
