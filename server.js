@@ -11,7 +11,7 @@ app.use('/api/bookings/', require('./routes/bookingsRoute'))
 
 app.use(cors(
     {
-        origin: ["https://car-management-application_1.vercel.app"],
+        origin: ["https://car-management-application1.vercel.app"],
         methods: ["POST", "GET"],
         credentials: true
     }
